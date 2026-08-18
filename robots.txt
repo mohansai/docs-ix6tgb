@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5ts4uo.salamcuan.online/sitemap.xml
